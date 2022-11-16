@@ -5,6 +5,15 @@
 ## Note
 Please achknowledge that this package is actively in progress. Endpoints / functionality may be missing for now.
 
+## Progress
+- `/users` -in progress
+- `/mapsets` -not started
+- `/maps` -not started
+- `/scores` -not started
+- `/leaderboard` -not started
+- `/playlists` -not started
+- `/multiplayer` -not started
+
 ## Usage
 
 ```js
