@@ -17,7 +17,7 @@ Please achknowledge that this package is actively in progress. Endpoints / funct
 ## Usage
 
 ```js
-const QuaverApi = require("quaver")
+const QuaverApi = require("quaver-game")
 const quaver = new QuaverApi()
 
 quaver.fetchUser("alphasucksat").then(data => {
