@@ -1,0 +1,25 @@
+{
+  "name": "quaver-game",
+  "version": "1.0.0",
+  "description": "API Interaction for rhythm game Quaver.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpharmi/npm_quaver.git"
+  },
+  "keywords": [
+    "quaver"
+  ],
+  "author": "alpharmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpharmi/npm_quaver/issues"
+  },
+  "homepage": "https://github.com/alpharmi/npm_quaver#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
