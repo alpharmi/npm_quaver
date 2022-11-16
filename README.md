@@ -1,9 +1,9 @@
-# NPM Quaver
+﻿# NPM Quaver
 
 [![ styled with: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 ## Note
-Please achknowledge that this package is actively in progress. Endpoints / functionality may be missing.
+Please achknowledge that this package is actively in progress. Endpoints / functionality may be missing for now.
 
 ## Usage
 
